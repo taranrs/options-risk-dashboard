@@ -12,6 +12,7 @@ The **Options Risk Dashboard** is a Python-based web application that enables us
 
 ## Installation
 
+```bash
 Clone the repository and install the dependencies:
 git clone
 cd options-risk-dashboard
